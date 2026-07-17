@@ -1,1 +1,1 @@
-# <h1 align="center">&lt;Heyyy there, Dhyan here! /&gt;</h1>
+<h1 align="center">Heyyy 👋, Dhyan here!</h1>
